@@ -16,3 +16,17 @@
 <img src="https://angular.io/generated/images/guide/toh/nav-diagram.png" />
     Walk through on the functionality of the page after its done.
 <img src="https://angular.io/generated/images/guide/toh/toh-anim.gif" />
+
+## Creating the project.
+    Steps to create the new project 
++ Set up your environment.
++ Create a new workspace and initial application project.
++ Serve the application.
++ Make changes to the application.
+
+### Code to start
+    In the CLI of the project do the following 
+1. Ensure that you are not already in an Angular workspace folder. For example, if you have previously created the Getting Started workspace, change to the parent of that folder.
+2. Run the CLI command ng new and provide the name angular-tour-of-heroes, as shown here:
+``` ng new angular-tour-of-heroes ```
+3. The ng new command prompts you for information about features to include in the initial application project. Accept the defaults by pressing the Enter or Return key.
