@@ -10,5 +10,5 @@
 + Create a shared service to assemble the heroes.
 + Use routing to navigate among different views and their components.
 
-## 2. Layout of page 
+## 2. Layout of page and example 
 <img src="https://angular.io/generated/images/guide/toh/nav-diagram.png" />
