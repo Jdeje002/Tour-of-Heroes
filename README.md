@@ -1,5 +1,6 @@
 # Tour of Heros tutorial. 
-## 1. What we will be learning 
+## Introduction 
+### 1. What we will be learning 
 + Use built-in Angular directives to show and hide elements and display lists of hero data.
 + Create Angular components to display hero details and show an array of heroes.
 + Use one-way data binding for read-only data.
@@ -10,5 +11,8 @@
 + Create a shared service to assemble the heroes.
 + Use routing to navigate among different views and their components.
 
-## 2. Layout of page and example 
+### 2. Layout of page and example 
+    Page example of how the project will look
 <img src="https://angular.io/generated/images/guide/toh/nav-diagram.png" />
+    Walk through on the functionality of the page after its done.
+<img src="https://angular.io/generated/images/guide/toh/toh-anim.gif" />
